@@ -5,6 +5,8 @@ Olá pessoal, Eu sou o Marcelo Medeiros e trabalho com TI👋
 - 🌱 Estudando Ciência de Dados
 - 😄 Pronouns: ele/dele
 
+##
+
 <div align="center">
   <a href="https://github.com/marceloanalytics">
   <img height="250em" src="https://github-readme-stats.vercel.app/api?username=marceloanalytics&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -14,7 +16,9 @@ Olá pessoal, Eu sou o Marcelo Medeiros e trabalho com TI👋
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rstudio/rstudio-original.svg">
-</div>
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  </div>
   
 ##
   
