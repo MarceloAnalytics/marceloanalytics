@@ -1,4 +1,4 @@
-Olá pessoal, Eu sou o Marcelo Medeiros e trabalho com TI👋
+Olá pessoal, Eu sou o Marcelo Medeiros e trabalho com Análise de Dados👋
 
 
 
