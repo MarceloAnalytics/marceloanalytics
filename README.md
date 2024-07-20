@@ -1,8 +1,8 @@
-Olá pessoal, Eu sou o Marcelo Medeiros e trabalho com Análise de Dados👋
+Olá pessoal, Eu sou o Marcelo Medeiros e trabalho com Ciência de Dados👋
 
 
 
-- 🌱 Estudando Ciência de Dados
+- 🌱 Cientista de Dados
 - 😄 Pronouns: ele/dele
 
 ##
@@ -15,7 +15,6 @@ Olá pessoal, Eu sou o Marcelo Medeiros e trabalho com Análise de Dados👋
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rstudio/rstudio-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   </div>
