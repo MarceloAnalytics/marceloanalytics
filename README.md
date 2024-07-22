@@ -1,5 +1,5 @@
 Olá pessoal, Eu sou o Marcelo Medeiros e trabalho com Ciência de Dados👋
-
+Atuo em resolução de problemas atravéz da ciência de dados e suas ramificações (Matemática, Estatística, Aprendizado de Máquina etc).
 
 
 - 🌱 Cientista de Dados
